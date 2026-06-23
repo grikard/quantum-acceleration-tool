@@ -2,7 +2,7 @@
 
 > A Public Private Partnership (P3) assessment of quantum acceleration and PQC urgency across Life Sciences, High Tech, Financial Services, Fusion Energy, Physical AI, and foundational mathematics.
 
-**Working draft v0.3** · ICD 203 tradecraft · Pre-publication review pending
+**Working draft v0.4c** · ICD 203 tradecraft · Pre-publication review pending
 
 By **[Gary Rikard, MBA](https://www.linkedin.com/in/garyrikard/)** · Senior practitioner-leader, enterprise platform strategy
 
